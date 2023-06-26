@@ -6,3 +6,4 @@ x.sendkeys "{NUMLOCK}"
 x.sendkeys "I am a virus "
 x.sendkeys "{SCROLLLOCK}"
 loop
+do that to virus.vbs
